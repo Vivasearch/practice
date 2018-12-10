@@ -1,0 +1,11 @@
+ <head>
+<body>
+  <script>
+      document.write("hullo, I am Max");
+      document.write("I, am your computer");
+      document.write("I'm not a hacker");
+      alert("Hacker Detected");
+      document.write("Hey! I'm not a hacker! Stupid computer...");
+      alert("Alert Systems Disabled");
+      document.write("Ah! Now, where where we?");
+      
